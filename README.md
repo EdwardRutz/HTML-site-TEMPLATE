@@ -1,4 +1,4 @@
-HTMS Site Template
+HTML Site Template
 
 > A template for a static HTML site.
 
